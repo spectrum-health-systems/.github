@@ -18,3 +18,6 @@ Repository-specfic resources should be located in *<RepositoryName>/.github/*
 * feature_request.md
 * question.md
 
+## Other templates
+
+* pull_request_template.md
