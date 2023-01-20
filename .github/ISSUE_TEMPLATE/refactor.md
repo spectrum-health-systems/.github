@@ -1,5 +1,5 @@
 ---
-name: Code refactor
+name: Refactor
 about: Request a source code refactor
 title: ''
 labels: refactor
