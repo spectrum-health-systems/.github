@@ -1,6 +1,6 @@
 <div align="center">
 
-![AbatabLogo](SHS_4C_logo.png)
+![AbatabLogo](https://github.com/spectrum-health-systems/.github/blob/main/profile/Resources/Images/Logos/SHS_4C_logo.png)
 
 <br>
 
