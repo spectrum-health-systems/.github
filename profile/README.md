@@ -1,6 +1,6 @@
 <div align="center">
 
-![AbatabLogo](./Resources/Images/Logos/SHS_4C_logo.png)
+![AbatabLogo](SHS_4C_logo.png)
 
 <br>
 
