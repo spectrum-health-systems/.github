@@ -1,4 +1,6 @@
-# Abatab XML documentation guidelines
+# XML documentation guidelines
+
+> Last updated 2-1-23
 
 * When possible, link to the [appendix](/man/manAppendix.html) using the following syntax:
 

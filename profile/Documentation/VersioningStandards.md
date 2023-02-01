@@ -1,5 +1,7 @@
 # Versioning standards
 
+> Last updated 2-1-23
+
 ## Standard projects
 
 Most Spectrum Health Systems projects use [Symanic Versioning](https://semver.org/) with the format of X.Y.Z where:
@@ -41,5 +43,3 @@ Example:
 
 * The May 2023 would have a version of `23.5`
 * The October 2024 would have a version of `24.10`
-
-> Last updated 2-1-23

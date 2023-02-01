@@ -32,8 +32,8 @@ A (depreciated) custom web service for Netsmart's myAvatar™ EHR.
 
 * [Web service error codes](../profile/Documentation/Web%20service%20error%20codes.md)
 
-* [XML Comment Standards](./Documentation/XmlCommentStandards.md)  
-XML comment standards for Spectrum Health Systems projects.
+* [XML Documentation Standards](./Documentation/XmlDocumentationStandards.md)  
+XML documentation standards for Spectrum Health Systems projects.
 
 * [Versioning standards](./Documentation/VersioningStandards.md)  
 Versioning standards for Spectrum Health Systems projects.
