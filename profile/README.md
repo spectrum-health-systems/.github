@@ -23,12 +23,19 @@ A command line management utility for Abatab deployments.
 * [**MAWS**](https://github.com/spectrum-health-systems/MAWS)  
 A (depreciated) custom web service for Netsmart's myAvatar™ EHR.
 
+# Third-party components
+
+* [OptionObject2015](../profile/Third-party%20components/Netsmart/OptionObject2015/136_4354_20.7z)
+* [OptionObject2](../profile/Third-party%20components/Netsmart/OptionObject2/136_180_9.7z) (depreciated)
+
 # Documentation
+
+* [Web service error codes](../profile/Documentation/Web%20service%20error%20codes.md)
 
 * [XML Comment Standards](./Documentation/XmlCommentStandards.md)  
 XML comment standards for Spectrum Health Systems projects.
 
-* [Versioning](./Documentation/VersioningStandards.md)  
+* [Versioning standards](./Documentation/VersioningStandards.md)  
 Versioning standards for Spectrum Health Systems projects.
 
-* Our [Code of Conduct](../CODE_OF_CONDUCT.md) and [Contributing guidelines](../CONTRIBUTING.md)
+* Our [Code of Conduct](../CODE_OF_CONDUCT.md) and [Contributing guidelines](../CONTRIBUTING.md).
