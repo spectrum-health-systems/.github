@@ -25,6 +25,10 @@ A (depreciated) custom web service for Netsmart's myAvatar™ EHR.
 
 # Third-party components
 
+## DocFX
+* [DocFX project for Abatab](https://github.com/spectrum-health-systems/.github/blob/main/profile/Third-party%20components/DocFX/DocFX-for-Abatab.7z)
+
+## The OptionObject
 * [OptionObject2015](../profile/Third-party%20components/Netsmart/OptionObject2015/136_4354_20.7z)
 * [OptionObject2](../profile/Third-party%20components/Netsmart/OptionObject2/136_180_9.7z) (depreciated)
 
