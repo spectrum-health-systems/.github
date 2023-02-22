@@ -26,20 +26,20 @@ A (depreciated) custom web service for Netsmart's myAvatar™ EHR.
 # Third-party components
 
 ## DocFX
-* [DocFX project for Abatab](https://github.com/spectrum-health-systems/.github/blob/main/profile/Third-party%20components/DocFX/DocFX-for-Abatab.7z)
+* [DocFX project for Abatab](../profile/Third-party%20components/DocFX/DocFX-for-Abatab.7z)
 
 ## The OptionObject
-* [OptionObject2015](../profile/Third-party%20components/Netsmart/OptionObject2015/136_4354_20.7z)
+* [OptionObject2015](../profile/Third-party%20components/Netsmart/OptionObject2015/136_4354_20.7z) (depreciated)
 * [OptionObject2](../profile/Third-party%20components/Netsmart/OptionObject2/136_180_9.7z) (depreciated)
 
 # Documentation
 
 * [Web service error codes](../profile/Documentation/Web%20service%20error%20codes.md)
 
-* [XML Documentation Standards](./Documentation/XmlDocumentationStandards.md)  
+* [XML Documentation Standards](../profile/Documentation/XmlDocumentationStandards.md)  
 XML documentation standards for Spectrum Health Systems projects.
 
-* [Versioning standards](./Documentation/VersioningStandards.md)  
+* [Versioning standards](../profile/Documentation/VersioningStandards.md)  
 Versioning standards for Spectrum Health Systems projects.
 
 * Our [Code of Conduct](../CODE_OF_CONDUCT.md) and [Contributing guidelines](../CONTRIBUTING.md).
