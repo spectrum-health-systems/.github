@@ -1,6 +1,100 @@
 # XML documentation guidelines
 
-> Last updated 2-1-23
+> Last updated 230301.0919
+
+# Classes
+
+Classes should have a short summary.
+
+```bash
+    /// <summary>
+    /// Determines what should be done with the <b>module</b> component of the Script Parameter.
+    /// </summary>
+    public static class Roundhouse
+    {
+```
+
+# Methods
+
+Method XML documentation should be in an external file, and called via an `<include>` statement.
+
+The external file is located in the project "Documentation/" folder, and is named for the project.
+
+For example, the Abatab XML documentation would be: `Documentation/Abatab.xml`
+
+The structure of the external documentation file is:
+
+```bash
+<XMLDoc>
+	<Class name="Abatab.asmx.cs">
+        <GetVersion>
+            <summary>Returns the current version of Abatab.</summary>
+            <returns>The current version of Abatab.</returns>
+            <remarks>
+                <list type="bullet">
+                    <item>This method is required by Avatar.</item>
+                    <item>The version number is always the version that is in development.</item>
+                </list>
+            </remarks>
+        </GetVersion>
+        <RunScript>
+            <summary>Executes script parameter request from Avatar, then returns a potentially modified OptionObject to Avatar.</summary>
+            <param name="sentOptionObject">The original OptionObject sent from Avatar.</param>
+            <param name="scriptParameter">The original Script Parameter request from Avatar.</param>
+            <returns>A finalized OptionObject that will be returned to Avatar.</returns>
+            <remarks>
+                <list type="bullet">
+                    <item>This method is required by Avatar.</item>
+                </list>
+                Abatab receives two things from Avatar:
+                <list type="number">
+                    <item>An OptionObject, which contains all of the information that Abatab needs to do it's thing.</item>
+                    <item>A Script Parameter that tells Abatab what it needs to do with the OptionObject.</item>
+                </list>
+            </remarks>
+        </RunScript>
+    </Class>
+    <Class name="Roundhouse.cs">
+        <ParseModule>
+            <summary>Parses the Script Parameter and sends valid requests to the proper destination.</summary>
+            <param name="abatabSession">Settings and data for this session of Abatab.</param>
+            <remarks>
+                <list type="bullet">
+                    <item>Only parses the <b>module</b> component of the Script Parameter.</item>
+                    <item>Whenever a new Abatab Module is added, the necessary logic will need to be added here.</item>
+                </list>
+            </remarks>
+        </ParseModule>
+	</Class>
+</XMLDoc>
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+OLD STUFF TO BE INCORPORATED
+
+***
+
+
 
 * When possible, link to the [appendix](/man/manAppendix.html) using the following syntax:
 
