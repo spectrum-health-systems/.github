@@ -1,17 +1,19 @@
-# XML documentation guidelines
+<!-- Last updated: 230724 -->
 
-> Last updated 230301.0919
+> **PLEASE NOTE**  
+> This documentation is in the process of being developed, and was last updated July 24, 2023.  
+
+# XML documentation guidelines
 
 # Classes
 
 Classes should have a short summary.
 
-```bash
-    /// <summary>
-    /// Determines what should be done with the <b>module</b> component of the Script Parameter.
-    /// </summary>
-    public static class Roundhouse
-    {
+```csharp
+/// <summary>Determines what should be done with the <b>module</b> component of the Script Parameter.</summary>
+public static class Roundhouse
+{
+}
 ```
 
 # Methods
@@ -24,7 +26,7 @@ For example, the Abatab XML documentation would be: `Documentation/Abatab.xml`
 
 The structure of the external documentation file is:
 
-```bash
+```csharp
 <XMLDoc>
 	<Class name="Abatab.asmx.cs">
         <GetVersion>

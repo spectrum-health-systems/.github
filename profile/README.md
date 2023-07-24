@@ -1,3 +1,5 @@
+<!-- Last updated: 230724 -->
+
 <div align="center">
 
 ![AbatabLogo](https://github.com/spectrum-health-systems/.github/blob/main/profile/Resources/Images/Logos/SHS_4C_logo.png)
@@ -26,11 +28,12 @@ A (depreciated) custom web service for Netsmart's myAvatar™ EHR.
 # Third-party components
 
 ## DocFX
+
 * [DocFX project for Abatab](../profile/Third-party%20components/DocFX/DocFX-for-Abatab.7z)
 
 ## The OptionObject
-* [OptionObject2015](../profile/Third-party%20components/Netsmart/OptionObject2015/136_4354_20.7z) (depreciated)
-* [OptionObject2](../profile/Third-party%20components/Netsmart/OptionObject2/136_180_9.7z) (depreciated)
+
+Abatab uses the OptionObject provided in [ScriptLink Standard](https://rcskids.github.io/ScriptLinkStandard/).
 
 # Documentation
 
