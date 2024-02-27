@@ -13,7 +13,10 @@ This is the Spectrum Health Systems **public** GitHub profile, home to various o
 # Projects
 
 * [**Abatab**](https://github.com/spectrum-health-systems/Abatab)  
-A custom web service for Netsmart's myAvatar™ EHR.
+A custom web service for Netsmart's myAvatar™ EHR (***Development version***).
+
+* [**Abatab Community Release**](https://github.com/spectrum-health-systems/Abatab-Community-Release)  
+A custom web service for Netsmart's myAvatar™ EHR (***Public version***).
 
 * [**Abatab Lieutenant**](https://github.com/spectrum-health-systems/AbatabLieutenant)  
 A command line management utility for Abatab deployments.
