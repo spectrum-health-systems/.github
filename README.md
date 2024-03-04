@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SHSLogo](https://github.com/spectrum-health-systems/.github/blob/main/profile/Resources/Images/Logos/SHS_4C_logo.png)
+![SHSLogo](./Resources/Images/Logos/SHS_4C_logo.png)
 
 <br>
 
