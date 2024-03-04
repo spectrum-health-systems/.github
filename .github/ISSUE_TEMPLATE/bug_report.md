@@ -12,8 +12,10 @@ title: 'Bug:'
 
 ## Steps to reproduce
 
+## Environment details
+
 <br>
 
 ***
 
-Please attach any relevent log files, screenshots, etc.
+Please attach any relevant log files, screenshots, etc.
