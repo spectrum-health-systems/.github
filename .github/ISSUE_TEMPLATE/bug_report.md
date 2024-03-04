@@ -1,13 +1,11 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+about: Found a bug? Let us know!
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# Description
+
+Please provide a clear and concise description of the bug.
 
 **To Reproduce**
 Steps to reproduce the behavior:
