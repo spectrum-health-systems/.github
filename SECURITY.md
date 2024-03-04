@@ -1,7 +1,5 @@
 <!-- u240304 -->
 
-# SECURITY
+# Security policy
 
-How to responsibly report a security vulnerability in project.
-
-Soon.
+To report a security issue, please open a [security vulnerability issue](https://github.com/spectrum-health-systems/Abatab/security/policy).

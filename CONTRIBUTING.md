@@ -2,4 +2,4 @@
 
 # CONTRIBUTING
 
-TBD.
+This document has not been created yet.
