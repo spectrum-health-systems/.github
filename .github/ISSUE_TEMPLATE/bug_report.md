@@ -1,6 +1,7 @@
 ---
 name: Bug report
 about: Found a bug? Let us know!
+title: 'Bug:'
 ---
 
 # Bug report
