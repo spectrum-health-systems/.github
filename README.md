@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SHSLogo](./Resources/Images/Logos/SHS_4C_logo.png)
+![SHSLogo](./Resources/SHS_4C_logo.png)
 
 <br>
 
