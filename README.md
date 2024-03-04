@@ -27,4 +27,4 @@ A living document for Abatab.
 ## Related projects
 
 * [**The myAvatar Development Community**](https://github.com/myAvatar-Development-Community)  
-Community-driven documentation, projects, and templates for [Netsmart's myAvatar™ EHR](https://www.ntst.com/offerings/myavatar).
+Community-driven documentation, projects, and templates for Netsmart's myAvatar™ EHR.
