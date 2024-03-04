@@ -1,3 +1,5 @@
+<!-- u240304 -->
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
