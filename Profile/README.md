@@ -12,20 +12,36 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 
 # Projects
 
-* [**Abatab**](https://github.com/spectrum-health-systems/Abatab)  
-A custom web service for Netsmart's myAvatar™ EHR.
-
-* [**Abatabadev**](https://github.com/spectrum-health-systems/Abatabadev)  
-The *development version* of Abatab.
-
-* [**Abatab Community Release**](https://github.com/spectrum-health-systems/Abatab-Community-Release)  
-The *community version* of Abatab.
-
-* [**Abatab Lieutenant**](https://github.com/spectrum-health-systems/AbatabLieutenant)  
-A command line management utility for Abatab deployments.
-
-* [**The Abatab Documentation Project**](https://github.com/spectrum-health-systems/Abatab-Documentation-Project)  
-A living document for Abatab.
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/Tingen_README.png"></a>
+            </td>
+            <td>
+                <a HREF="https://github.com/spectrum-health-systems/Outpost31"><img src="https://github.com/spectrum-health-systems/Outpost31/blob/main/.github/images/logos/Outpost31_README.png"></a>
+            </td>
+            <td>
+                <a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_README.png"></a>
+            </td>
+            <td>
+                <a HREF="https://github.com/spectrum-health-systems/TingenCommunityRelease"><img src="https://github.com/spectrum-health-systems/TingenCommunityRelease/blob/main/.github/images/logos/TingenCommunityRelease_README.png"></a>
+        </tr>
+        <tr>
+            <td>
+                <a HREF="https://github.com/spectrum-health-systems/TingenCommander"><img src="https://github.com/spectrum-health-systems/TingenCommander/blob/main/.github/images/logos/TingenCommander_README.png"></a>
+            </td>
+            <td>
+                <a HREF="https://github.com/spectrum-health-systems/TingenLieutenant"><img src="https://github.com/spectrum-health-systems/TingenLieutenant/blob/main/.github/images/logos/TingenLieutenant_README.png"></a>
+            </td>
+            <td>
+                <a HREF="https://github.com/spectrum-health-systems/TingenDevDeploy"><img src="https://github.com/spectrum-health-systems/TingenDevDeploy/blob/main/.github/images/logos/TingenDevDeploy_README.png"></a>
+            <td>
+                <a HREF="https://github.com/spectrum-health-systems/TingenDocumentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/images/logos/TingenDocumentation_README.png"></a>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ## Related projects
 
