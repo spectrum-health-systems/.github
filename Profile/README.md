@@ -10,7 +10,7 @@
 
 This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **public** GitHub profile, home to various open-source applications, tools, and utilities developed by Spectrum Health Systems.
 
-# Projects
+# Tingen
 
 <div align="center">
     <table>
@@ -34,7 +34,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
     </table>
 </div>
 
-## Related projects
+# Other projects
 
 * [**The myAvatar Development Community**](https://github.com/myAvatar-Development-Community)  
 Community-driven documentation, projects, and templates for Netsmart's myAvatar™ EHR.
