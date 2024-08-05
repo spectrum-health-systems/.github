@@ -22,7 +22,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
                 <a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_README.png"></a>
             </td>
             <td>
-                <a HREF="https://github.com/spectrum-health-systems/TingenDocumentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/images/logos/TingenDocumentation-232x308.png"></a>
+                <a HREF="https://github.com/spectrum-health-systems/TingenDocumentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-232x308.png"></a>
             </td>
             <td>
                 <a HREF="https://github.com/spectrum-health-systems/TingenDevDeploy"><img src="https://github.com/spectrum-health-systems/TingenDevDeploy/blob/main/.github/images/logos/TingenDevDeploy_README.png"></a>
