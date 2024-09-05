@@ -40,7 +40,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
         </tr>
         <tr>
             <td>
-                <a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/TingenDevDeploy_README.png"></a>
+                <a HREF="https://github.com/spectrum-health-systems/TingenDevDeploy"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/TingenDevDeploy_README.png"></a>
             </td>
             <td>
                 Desc
