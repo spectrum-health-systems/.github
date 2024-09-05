@@ -24,7 +24,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
         </tr>
         <tr>
             <td>
-                <a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/TingenDevelopment_README.png"></a>
+                <a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_README.png"></a>
             </td>
             <td>
                 Desc
@@ -32,7 +32,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
         </tr>
         <tr>
             <td>
-                <a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/TingenDocumentation-232x308.png"></a>
+                <a HREF="https://github.com/spectrum-health-systems/TingenDocumentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-232x308.png"></a>
             </td>
             <td>
                 Desc
@@ -48,15 +48,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
         </tr>
         <tr>
             <td>
-                <a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/Outpost31_README.png"></a>
-            </td>
-            <td>
-                Desc
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/Tingen_README.png"></a>
+                <a HREF="https://github.com/spectrum-health-systems/Outpost31"><img src="https://github.com/spectrum-health-systems/Outpost31/blob/main/.github/images/logos/Outpost31_README.png"></a>
             </td>
             <td>
                 Desc
