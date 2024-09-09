@@ -23,7 +23,9 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
                 <a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/Tingen_README.png"></a>
             </td>
             <td>
-                Desc
+                This is the description for this thing, what it's used for, and what it needs.<br>
+                <br>
+                
             </td>
         </tr>
         <tr>
