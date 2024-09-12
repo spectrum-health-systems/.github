@@ -12,12 +12,18 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 
 <br/>
 
-***
-
 # Tingen - A Custom Web Service for Avatar
 
 <div align="center">
     <table>
+        <tr>
+            <td>
+                <a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-232x308.png"></a>
+            </td>
+            <td>
+                Tingen Documentation.
+            </td>
+        </tr>
         <tr>
             <td>
                 <a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/Tingen_README.png"></a>
@@ -42,10 +48,10 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
         </tr>
         <tr>
             <td>
-                <a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-232x308.png"></a>
+                <a HREF="https://github.com/spectrum-health-systems/Outpost31"><img src="https://github.com/spectrum-health-systems/Outpost31/blob/main/.github/images/logos/Outpost31_README.png"></a>
             </td>
             <td>
-                Tingen Documentation.
+                The backend/main logic for Tingen.
             </td>
         </tr>
         <tr>
@@ -54,14 +60,6 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
             </td>
             <td>
                 The Tingen deployment utility.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a HREF="https://github.com/spectrum-health-systems/Outpost31"><img src="https://github.com/spectrum-health-systems/Outpost31/blob/main/.github/images/logos/Outpost31_README.png"></a>
-            </td>
-            <td>
-                The backend/main logic for Tingen.
             </td>
         </tr>
     </table>
