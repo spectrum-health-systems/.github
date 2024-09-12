@@ -12,7 +12,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 
 <br/>
 
-# Tingen - A Custom Web Service for Avatar
+This is what's here:
 
 <details>
     <summary><h1>Tingen - A Custom Web Service for Avatar</h1></summary>
@@ -28,7 +28,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
             </tr>
             <tr>
                 <td>
-                    <a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_README.png"></a>
+                    <a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_116x154.png"></a>
                 </td>
                 <td>
                     The development version of Tingen.<br>
