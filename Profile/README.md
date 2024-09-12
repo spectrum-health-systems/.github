@@ -14,6 +14,8 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 
 # Tingen - A Custom Web Service for Avatar
 
+<details>
+
 <div align="center">
     <table>
         <tr>
@@ -74,6 +76,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
     </table>
 </div>
 
+</details>
 
 <!-- 
 
