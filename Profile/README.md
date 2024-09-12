@@ -23,7 +23,9 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
                 <a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/Tingen_README.png"></a>
             </td>
             <td>
-                This is the description for this thing, what it's used for, and what it needs.<br>
+                The latest stable version of Tingen.<br>
+                <br>
+                In most cases, you're probably looking for the Tingen Community Release.
                 <br>       
             </td>
         </tr>
@@ -32,7 +34,10 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
                 <a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_README.png"></a>
             </td>
             <td>
-                Desc
+                The development version of Tingen.<br>
+                <br>
+                In most cases, you're probably looking for the Tingen Community Release.
+                <br>       
             </td>
         </tr>
         <tr>
@@ -40,7 +45,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
                 <a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-232x308.png"></a>
             </td>
             <td>
-                Desc
+                Tingen Documentation.
             </td>
         </tr>
         <tr>
@@ -48,7 +53,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
                 <a HREF="https://github.com/spectrum-health-systems/Tingen-DevDeploy"><img src="https://github.com/spectrum-health-systems/Tingen-DevDeploy/blob/main/.github/images/logos/TingenDevDeploy_README.png"></a>
             </td>
             <td>
-                Desc
+                The Tingen deployment utility.
             </td>
         </tr>
         <tr>
@@ -56,7 +61,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
                 <a HREF="https://github.com/spectrum-health-systems/Outpost31"><img src="https://github.com/spectrum-health-systems/Outpost31/blob/main/.github/images/logos/Outpost31_README.png"></a>
             </td>
             <td>
-                Desc
+                The backend/main logic for Tingen.
             </td>
         </tr>
     </table>
