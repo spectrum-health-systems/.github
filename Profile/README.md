@@ -67,13 +67,10 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
                 <a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease"><img src="https://github.com/spectrum-health-systems/Tingen-CommunityRelease/blob/main/.github/images/logos/TingenCommunityRelease_README.png"></a>
             </td>
             <td>
-                The latest stable version of Tingen.<br>
-                <br>
-                In most cases, you're probably looking for the Tingen Community Release.
+                The Community Release of Tingen.<br>
                 <br>       
             </td>
         </tr>
-
     </table>
 </div>
 
