@@ -21,18 +21,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
                 <a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-232x308.png"></a>
             </td>
             <td>
-                Tingen Documentation.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/Tingen_README.png"></a>
-            </td>
-            <td>
-                The latest stable version of Tingen.<br>
-                <br>
-                In most cases, you're probably looking for the Tingen Community Release.
-                <br>       
+                Tingen documentation.<br>
             </td>
         </tr>
         <tr>
@@ -62,6 +51,29 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
                 The Tingen deployment utility.
             </td>
         </tr>
+        <tr>
+            <td>
+                <a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/Tingen_README.png"></a>
+            </td>
+            <td>
+                The latest stable version of Tingen.<br>
+                <br>
+                In most cases, you're probably looking for the Tingen Community Release.
+                <br>       
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease"><img src="https://github.com/spectrum-health-systems/Tingen-CommunityRelease/blob/main/.github/images/logos/TingenCommunityRelease_README.png"></a>
+            </td>
+            <td>
+                The latest stable version of Tingen.<br>
+                <br>
+                In most cases, you're probably looking for the Tingen Community Release.
+                <br>       
+            </td>
+        </tr>
+
     </table>
 </div>
 
