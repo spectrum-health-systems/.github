@@ -15,7 +15,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 # Tingen - A Custom Web Service for Avatar
 
 <details>
-
+  <summary>Tingen - A Custom Web Service for Avatar</summary>
 <div align="center">
     <table>
         <tr>
