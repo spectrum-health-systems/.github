@@ -21,7 +21,9 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 				<a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-116x154.png"></a>
 			</td>
 			<td align="left">
-				Tingen documentation.
+				Documentation for:<br>
+				- Tingen<br>
+				- Outpost31
 			</td>
 		</tr>
 		<tr>
@@ -29,7 +31,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 				<a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_116x154.png"></a>
 			</td>
 			<td align="left">
-				The development version of Tingen.<br>
+				The *development* version of Tingen.<br>
 				<br>
 				In most cases, you're probably looking for the <a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease">Tingen Community Release</a>.
 				<br>       
