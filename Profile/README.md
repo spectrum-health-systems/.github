@@ -15,7 +15,9 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 ***
 
 <div align="center">
-	<h1>Tingen</h1>
+	<h1>
+		The Tingen web service (and related projects)
+	</h1>
 	<table>
 		<tr>
 			<td>
@@ -70,7 +72,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 		</tr>
 		<tr>
 			<td>
-				<a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease"><img src="https://github.com/spectrum-health-systems/Tingen-CommunityRelease/blob/main/.github/images/logos/TingenCommunityRelease_README.png"></a>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease"><img src="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services/blob/main/.github/images/logos/ScriptLinkAndWebServices_README.jpeg"></a>
 			</td>
 			<td align="left">
 				The Community Release of Tingen, which is has undergone significant testing, and is ready for use by the Avatar community.<br>
@@ -78,6 +80,25 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 			</td>
 		</tr>
 	</table>
+</div>
+
+<div align="center">
+	<h1>
+		Other projects and documentation
+	</h1>
+		<table>
+		<tr>
+			<td>
+				<a HREF="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services"><img src="https://github.com/spectrum-health-systems/Tingen-CommunityRelease/blob/main/.github/images/logos/TingenCommunityRelease_README.png"></a>
+			</td>
+			<td align="left">
+				Stuff<br>
+				<br>       
+			</td>
+		</tr>
+	</table>
+	
+	
 </div>
 
 <!-- 
