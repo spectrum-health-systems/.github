@@ -89,7 +89,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 		<table>
 		<tr>
 			<td>
-				<a HREF="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services"><img src="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services/blob/main/.github/images/logos/ScriptLinkAndWebServices_README.jpeg"></a>
+				<a HREF="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services"><img src="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services/blob/main/.github/images/logos/ScriptLinkAndWebServices_256x256.jpeg"></a>
 			</td>
 			<td align="left">
 				Information, documentation, and additional resources about:
