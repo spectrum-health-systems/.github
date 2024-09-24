@@ -18,12 +18,10 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 	<table>
 		<tr>
 			<td>
-				<a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-116x154.png"></a>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-232x308.png"></a>
 			</td>
 			<td align="left">
 				The Tingen Documentation repository contains:
-				<br>
-				<br>
 				<ul>
 					<li>The <a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/Manual/Tingen-Manual.md">Tingen Manual</a></li> 
 					<li><a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/Development/README.md">Development documentation</a> for Tingen and related projects</li> 
@@ -33,7 +31,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 		</tr>
 		<tr>
 			<td>
-				<a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_116x154.png"></a>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_232x308.png"></a>
 			</td>
 			<td align="left">
 				The development version of Tingen.<br>
