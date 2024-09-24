@@ -12,70 +12,67 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 
 <br/>
 
-This is what's here:
+# Tingen - A Custom Web Service for Avatar
 
-<details>
-    <summary><h1>Tingen - A Custom Web Service for Avatar</h1></summary>
-    <div align="center">
-        <table>
-            <tr>
-                <td>
-                    <a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-116x154.png"></a>
-                </td>
-                <td align="left">
-                    Tingen documentation.
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_116x154.png"></a>
-                </td>
-                <td>
-                    The development version of Tingen.<br>
-                    <br>
-                    In most cases, you're probably looking for the Tingen Community Release.
-                    <br>       
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a HREF="https://github.com/spectrum-health-systems/Outpost31"><img src="https://github.com/spectrum-health-systems/Outpost31/blob/main/.github/images/logos/Outpost31_README.png"></a>
-                </td>
-                <td>
-                    The backend/main logic for Tingen.
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a HREF="https://github.com/spectrum-health-systems/Tingen-DevDeploy"><img src="https://github.com/spectrum-health-systems/Tingen-DevDeploy/blob/main/.github/images/logos/TingenDevDeploy_README.png"></a>
-                </td>
-                <td>
-                    The Tingen deployment utility.
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/Tingen_README.png"></a>
-                </td>
-                <td>
-                    The latest stable version of Tingen.<br>
-                    <br>
-                    In most cases, you're probably looking for the Tingen Community Release.
-                    <br>       
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease"><img src="https://github.com/spectrum-health-systems/Tingen-CommunityRelease/blob/main/.github/images/logos/TingenCommunityRelease_README.png"></a>
-                </td>
-                <td>
-                    The Community Release of Tingen.<br>
-                    <br>       
-                </td>
-            </tr>
-        </table>
-    </div>
-</details>
+<div align="center">
+	<table>
+		<tr>
+			<td>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-116x154.png"></a>
+			</td>
+			<td align="left">
+				Tingen documentation.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_116x154.png"></a>
+			</td>
+			<td>
+				The development version of Tingen.<br>
+				<br>
+				In most cases, you're probably looking for the Tingen Community Release.
+				<br>       
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a HREF="https://github.com/spectrum-health-systems/Outpost31"><img src="https://github.com/spectrum-health-systems/Outpost31/blob/main/.github/images/logos/Outpost31_README.png"></a>
+			</td>
+			<td>
+				The backend/main logic for Tingen.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-DevDeploy"><img src="https://github.com/spectrum-health-systems/Tingen-DevDeploy/blob/main/.github/images/logos/TingenDevDeploy_README.png"></a>
+			</td>
+			<td>
+				The Tingen deployment utility.
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/Tingen_README.png"></a>
+			</td>
+			<td>
+				The latest stable version of Tingen.<br>
+				<br>
+				In most cases, you're probably looking for the Tingen Community Release.
+				<br>       
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease"><img src="https://github.com/spectrum-health-systems/Tingen-CommunityRelease/blob/main/.github/images/logos/TingenCommunityRelease_README.png"></a>
+			</td>
+			<td>
+				The Community Release of Tingen.<br>
+				<br>       
+			</td>
+		</tr>
+	</table>
+</div>
 
 <!-- 
 
