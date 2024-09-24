@@ -21,10 +21,11 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 				<a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-116x154.png"></a>
 			</td>
 			<td align="left">
-				Documentation for:<br>
+				Tingen Documentation is where the <a HREF="https://github.com/spectrum-health-systems/Tingen">Tingen Manual</a> lives, as well as documentation for:<br>
 				<ul>
-				<li> <a HREF="https://github.com/spectrum-health-systems/Tingen_development">Tingen_development</a><br></li> 
-				<li> <a HREF="https://github.com/spectrum-health-systems/Outpost31">Outpost31</a></li> 
+					<li><a HREF="https://github.com/spectrum-health-systems/Tingen">Tingen development</a></li> 
+					<li><a HREF="https://github.com/spectrum-health-systems/Outpost31">Outpost31 development</a></li>
+					<li><a HREF="https://github.com/spectrum-health-systems/Tingen-">Tingen DevDeploy</a></li> 
 				</ul>
 			</td>
 		</tr>
