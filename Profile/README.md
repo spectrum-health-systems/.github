@@ -97,8 +97,8 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 					<li>ScriptLink and web services</li> 
 					<li>Creating a custom web service for Avatar</li> 
 					<li>Self-hosting custom web services</li>
-					<li>Self-hosting a custom web service</li>
-					<li>Self-hosting a custom web service</li>
+					<li>Third-party components</li>
+					<li>...and more!</li>
 				</ul>
 				<br>       
 			</td>
