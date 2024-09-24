@@ -22,7 +22,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 			</td>
 			<td align="left">
 				The Tingen Documentation repository contains:
-				<br>
+				<br/>
 				<ul>
 					<li>The <a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/Manual/Tingen-Manual.md">Tingen Manual</a></li> 
 					<li><a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/Development/README.md">Development documentation</a> for Tingen and related projects</li> 
