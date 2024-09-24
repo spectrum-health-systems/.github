@@ -72,7 +72,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 		</tr>
 		<tr>
 			<td>
-				<a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease"><img src="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services/blob/main/.github/images/logos/ScriptLinkAndWebServices_README.jpeg"></a>
+				<a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease"><img src="https://github.com/spectrum-health-systems/Tingen-CommunityRelease/blob/main/.github/images/logos/TingenCommunityRelease_README.png"></a>
 			</td>
 			<td align="left">
 				The Community Release of Tingen, which is has undergone significant testing, and is ready for use by the Avatar community.<br>
@@ -89,10 +89,17 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 		<table>
 		<tr>
 			<td>
-				<a HREF="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services"><img src="https://github.com/spectrum-health-systems/Tingen-CommunityRelease/blob/main/.github/images/logos/TingenCommunityRelease_README.png"></a>
+				<a HREF="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services"><img src="https://github.com/spectrum-health-systems/ScriptLink-and-Web-Services/blob/main/.github/images/logos/ScriptLinkAndWebServices_README.jpeg"></a>
 			</td>
 			<td align="left">
-				Stuff<br>
+				Information, documentation, and additional resources about:
+				<ul>
+					<li>ScriptLink and web services</li> 
+					<li>Creating a custom web service for Avatar</li> 
+					<li>Self-hosting custom web services</li>
+					<li>Self-hosting a custom web service</li>
+					<li>Self-hosting a custom web service</li>
+				</ul>
 				<br>       
 			</td>
 		</tr>
