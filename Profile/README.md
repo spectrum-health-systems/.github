@@ -1,4 +1,4 @@
-<!-- u240912 -->
+<!-- u240924 -->
 
 <div align="center">
 
@@ -22,8 +22,8 @@ This is what's here:
                 <td>
                     <a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation"><img src="https://github.com/spectrum-health-systems/TingenDocumentation/blob/main/.github/Images/Logos/TingenDocumentation-116x154.png"></a>
                 </td>
-                <td>
-                    Tingen documentation.<br>
+                <td align="left">
+                    Tingen documentation.
                 </td>
             </tr>
             <tr>
