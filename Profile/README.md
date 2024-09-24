@@ -8,7 +8,9 @@
 
 </div>
 
-This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **public** GitHub profile, home to various open-source applications, tools, and utilities developed by Spectrum Health Systems.
+***
+
+This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) ***public*** GitHub profile, home to various open-source applications, tools, and utilities developed by Spectrum Health Systems.
 
 ***
 
@@ -26,10 +28,10 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 			<td>
 				<a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_116x154.png"></a>
 			</td>
-			<td>
+			<td align="left">
 				The development version of Tingen.<br>
 				<br>
-				In most cases, you're probably looking for the Tingen Community Release.
+				In most cases, you're probably looking for the (Tingen Community Release)[https://github.com/spectrum-health-systems/Tingen-CommunityRelease].
 				<br>       
 			</td>
 		</tr>
