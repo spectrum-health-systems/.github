@@ -34,9 +34,9 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 				<a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_232x308.png"></a>
 			</td>
 			<td align="left">
-				The development version of Tingen, which <i>absolutely, <b>positively</b></i> isn't to be used in production environments!<br>
+				The development version of Tingen.<br>
 				<br>		
-				Production environments should use the <a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease">Tingen Community Release</a>.
+				Production environments should use the Tingen <a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease">Community Release</a>.
 				<br>       
 			</td>
 		</tr>
@@ -44,35 +44,35 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 			<td>
 				<a HREF="https://github.com/spectrum-health-systems/Outpost31"><img src="https://github.com/spectrum-health-systems/Outpost31/blob/main/.github/images/logos/Outpost31_README.png"></a>
 			</td>
-			<td>
-				The backend/main logic for Tingen.
+			<td align="left">
+				The backend/main logic for the Tingen web service.<br>
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<a HREF="https://github.com/spectrum-health-systems/Tingen-DevDeploy"><img src="https://github.com/spectrum-health-systems/Tingen-DevDeploy/blob/main/.github/images/logos/TingenDevDeploy_README.png"></a>
 			</td>
-			<td>
-				The Tingen deployment utility.
+			<td align="left">
+				A utility to deploy the development version of Tingen.
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<a HREF="https://github.com/spectrum-health-systems/Tingen"><img src="https://github.com/spectrum-health-systems/Tingen/blob/main/.github/images/logos/Tingen_README.png"></a>
 			</td>
-			<td>
+			<td align="left">
 				The latest stable version of Tingen.<br>
-				<br>
-				In most cases, you're probably looking for the Tingen Community Release.
-				<br>       
+				<br>		
+				Production environments should use the Tingen <a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease">Community Release</a>.
+				<br>          
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease"><img src="https://github.com/spectrum-health-systems/Tingen-CommunityRelease/blob/main/.github/images/logos/TingenCommunityRelease_README.png"></a>
 			</td>
-			<td>
-				The Community Release of Tingen.<br>
+			<td align="left">
+				The Community Release of Tingen, which is has undergone significant testing, and is ready for use by the Avatar community.<br>
 				<br>       
 			</td>
 		</tr>
