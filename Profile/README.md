@@ -23,9 +23,9 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 			<td align="left">
 				The Tingen Documentation repository contains:
 				<ul>
-					<li>The Tingen <a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/Manual/Tingen-Manual.md">Manual</a></li> 
-					<li>Project <a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/Development/README.md">development documentation</a></li> 
-					<li><a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/docs/README.md">API</a> documentation</li>
+					<li>The <a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/Manual/Tingen-Manual.md">Tingen Manual</a></li> 
+					<li><a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/Development/README.md">Development documentation for Tingen, and related projects</a></li> 
+					<li><a HREF="https://github.com/spectrum-health-systems/Tingen-Documentation/blob/main/docs/README.md">API documentation</a></li>
 				</ul>
 			</td>
 		</tr>
@@ -34,7 +34,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 				<a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_116x154.png"></a>
 			</td>
 			<td align="left">
-				The *development* version of Tingen.<br>
+				The development version of Tingen.<br>
 				<br>
 				In most cases, you're probably looking for the <a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease">Tingen Community Release</a>.
 				<br>       
