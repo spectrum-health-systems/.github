@@ -22,8 +22,10 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 			</td>
 			<td align="left">
 				Documentation for:<br>
-				- <a HREF="https://github.com/spectrum-health-systems/Tingen_development">Tingen_development</a>
-				- <a HREF="https://github.com/spectrum-health-systems/Outpost31">Outpost31</a>
+				<ul>
+				<li> <a HREF="https://github.com/spectrum-health-systems/Tingen_development">Tingen_development</a><br></li> 
+				<li> <a HREF="https://github.com/spectrum-health-systems/Outpost31">Outpost31</a></li> 
+				</ul>
 			</td>
 		</tr>
 		<tr>
