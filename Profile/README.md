@@ -10,9 +10,7 @@
 
 This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **public** GitHub profile, home to various open-source applications, tools, and utilities developed by Spectrum Health Systems.
 
-<br/>
-
-# Tingen - A Custom Web Service for Avatar
+***
 
 <div align="center">
 	<table>
