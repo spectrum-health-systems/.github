@@ -16,7 +16,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 
 <div align="center">
 
-	Tingen
+	<h1>Tingen</h1>
 
 	<table>
 		<tr>
