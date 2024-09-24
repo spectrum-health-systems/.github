@@ -34,9 +34,9 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 				<a HREF="https://github.com/spectrum-health-systems/Tingen_development"><img src="https://github.com/spectrum-health-systems/Tingen_development/blob/main/.github/images/logos/TingenDevelopment_232x308.png"></a>
 			</td>
 			<td align="left">
-				The development version of Tingen.<br>
-				<br>
-				In most cases, you're probably looking for the <a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease">Tingen Community Release</a>.
+				The development version of Tingen, which <i>absolutely, <b>positively</b></i> isn't to be used in production environments!<br>
+				<br>		
+				Production environments should use the <a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease">Tingen Community Release</a>.
 				<br>       
 			</td>
 		</tr>
