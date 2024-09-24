@@ -31,7 +31,7 @@ This is the [Spectrum Health Systems](https://www.spectrumhealthsystems.org/) **
 			<td align="left">
 				The development version of Tingen.<br>
 				<br>
-				In most cases, you're probably looking for the (Tingen Community Release)[https://github.com/spectrum-health-systems/Tingen-CommunityRelease].
+				In most cases, you're probably looking for the <a HREF="https://github.com/spectrum-health-systems/Tingen-CommunityRelease">Tingen Community Release</a>.
 				<br>       
 			</td>
 		</tr>
