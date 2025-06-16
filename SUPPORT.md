@@ -1,7 +1,9 @@
-<!-- u240304 -->
+<!-- u250616 -->
 
 # Support
 
-This project uses GitHub Issues to track bugs and feature requests. Please search the existing  issues before filing new issues to avoid duplicates.
+This project uses GitHub Issues to track bugs and feature requests.
 
-For new issues, file your bug or feature request as a new Issue.
+Please search the existing issues before filing new issues to avoid duplicates.
+
+For new issues, file your bug or feature request as a new issue.
