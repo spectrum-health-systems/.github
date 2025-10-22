@@ -1,0 +1,7 @@
+# Last updated 251022
+
+# Default owners for everything in the repo
+* @aprettycoolprogram
+
+# Specific owners for C# files
+*.cs @aprettycoolprogram

@@ -1,0 +1,13 @@
+name: Feature Request
+description: Request a new feature or enhancement
+title: "[FEATURE]: "
+labels: ["feature"]
+assignees: ["APrettyCoolProgram"]
+body:
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Description of the requested feature/enhancement
+      description: Provide a detailed description of the feature or enhancement you are requesting.
+    validations:
+      required: true

@@ -1,0 +1,13 @@
+name: Question
+description: Ask a question
+title: "[QUESTION]: "
+labels: ["question"]
+assignees: ["APrettyCoolProgram"]
+body:
+  - type: textarea
+    id: question-description
+    attributes:
+      label: Question
+      description: Ask your question.
+    validations:
+      required: true

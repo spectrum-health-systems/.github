@@ -1,0 +1,13 @@
+name: Documentation Request/Update
+description: Request new or updated documentation
+title: "[DOCUMENTATION]: "
+labels: ["documentation"]
+assignees: ["APrettyCoolProgram"]
+body:
+  - type: textarea
+    id: documentation-description
+    attributes:
+      label: Documentation Request
+      description: Provide a detailed description of the documentation you need.
+    validations:
+      required: true
