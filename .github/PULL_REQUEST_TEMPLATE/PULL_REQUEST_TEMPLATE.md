@@ -6,7 +6,7 @@ Before you submit a pull request, please make sure:
 - [ ] The repository README.md has been updated
 - [ ] The repository CHANGELOG.md has been updated
 - [ ] Sensitive/private data is not included
-- [ ] Regression tests have completed sucessfully
+- [ ] Regression tests have completed successfully
 - [ ] Source code documentation has been updated
 - [ ] Public APIs are documented
 

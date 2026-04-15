@@ -1,7 +1,4 @@
-<!--
-	u251022
-	https://contributing.md/
--->
+<!-- Please see https://contributing.md/ -->
 
 #### Table of Contents
 

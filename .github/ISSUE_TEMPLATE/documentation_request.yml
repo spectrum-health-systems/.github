@@ -2,7 +2,7 @@ name: Documentation Request/Update
 description: Request new or updated documentation
 title: "[DOCUMENTATION]: "
 labels: ["documentation"]
-assignees: ["APrettyCoolProgram"]
+assignees: ["AssigneeName"]
 body:
   - type: textarea
     id: documentation-description
